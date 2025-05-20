@@ -1,11 +1,11 @@
 :root {
-    --bg-light: #f0ffee;
-    --text-light: #d2f4d9;
-    --accent: #385339;
-    --secondary: #e8dfc9;
-    --secondary-dark: hsl(40, 22%, 21%);
+    --bg-light: #eef3f4;
+    --text-light: #cceaf7;
+    --accent: #273c56;
+    --secondary: #c2fee4;
+    --secondary-dark: hsl(155, 29%, 23%);
     --bg-dark: #2a312a;
-    --text-dark: #85a383;
+    --text-dark: #6796c9;
 }
 
 * {
