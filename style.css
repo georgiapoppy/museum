@@ -284,6 +284,13 @@ header a {
     display: none;
 }
 
+.caption {
+    font-size: 0.5em;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 1em;
+}
+
 .bold {
     font-style: italic;
     padding-top: 2px;
