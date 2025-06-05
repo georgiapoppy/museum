@@ -137,13 +137,6 @@ header h1 {
     margin-top: 0;
 }
 
-.caption {
-    font-size: 70%;
-    margin-top: 0;
-    padding-top: 0;
-    padding-bottom: 1em;
-}
-
 #star, #heading, #link {
     padding: 10px;
 }
@@ -289,6 +282,13 @@ header a {
 
 #dark2, #dark4 {
     display: none;
+}
+
+.caption {
+    font-size: 0.5em;
+    margin-top: 0;
+    padding-top: 0;
+    padding-bottom: 1em;
 }
 
 .bold {
