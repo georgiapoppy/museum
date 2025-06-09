@@ -60,6 +60,17 @@ main a {
     transition: color 0.3s ease;
 }
 
+.references {
+    font-family: 'Roboto';
+    text-decoration: none;
+    color: inherit;
+    font-size: inherit;
+    transition: color 0.3s ease;
+    margin: 0;
+    padding: 0;
+}
+
+
 footer {
     text-align: center;
     padding: 1rem;
